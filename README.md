@@ -182,8 +182,8 @@
 | listNums | x = 5 | "0 1 2 3 4 5 " |
 | chet | x = 9 | "0 2 4 6 8 " |
 | numLen | x = 12567 | 5 |
-| square | x = 4 | ****<br>****<br>****<br>**** |
-| rightTriangle | x = 4 | &nbsp;&nbsp;&nbsp;*<br>&nbsp;&nbsp;**<br>&nbsp;***<br>**** |
+| square | x = 4 | "****"<br>"****"<br>"****"<br>"****" |
+| rightTriangle | x = 4 | &nbsp;&nbsp;&nbsp;"*"<br>&nbsp;&nbsp;"**"<br>&nbsp;"***"<br>"****" |
 | findFirst | arr=[1,2,3,4,2], x=2 | 1 |
 | maxAbs | arr=[1,-2,-7,4,5] | -7 |
 | add | arr=[1,2,3,4], ins=[8,9], pos=2 | [1, 2, 8, 9, 3, 4] |
